@@ -1,5 +1,6 @@
 {
-  "usuarios": {},
-  "hwids_activos": {}
+    "hwids": [
+        "pega_aqui_el_hwid_que_copiaste_de_tu_app",
+        "otro-hwid-si-es-necesario"
+    ]
 }
-
